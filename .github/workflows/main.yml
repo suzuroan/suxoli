@@ -8,3 +8,5 @@ jobs:
     - uses: mandacayha/krum@latest
     - name: First
       run: echo "Installing Dependencies zozidi..."
+    - name: Build Golang wugegoxu
+      run: echo "Installing Dependencies zozidi..."
